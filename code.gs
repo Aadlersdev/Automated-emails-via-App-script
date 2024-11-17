@@ -1,5 +1,5 @@
 function doGet() {
-  return HtmlService.createHtmlOutputFromFile('form.html');
+  return HtmlService.createHtmlOutputFromFile('index.html');
 }
 
 function submitForm(formData) {
